@@ -1,0 +1,282 @@
+[INFO] 2022-08-04 09:14:24,396 [MainThread:4601083392] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-04 09:14:40,255 [Thread-1:123145577689088] [django.server:187] [basehttp:log_message] - "GET / HTTP/1.1" 200 10697
+[INFO] 2022-08-04 09:14:40,303 [Thread-1:123145577689088] [django.server:187] [basehttp:log_message] - "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[INFO] 2022-08-04 09:14:40,362 [Thread-1:123145577689088] [django.server:187] [basehttp:log_message] - "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[INFO] 2022-08-04 09:14:40,363 [Thread-2:123145594478592] [django.server:187] [basehttp:log_message] - "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[INFO] 2022-08-04 09:14:40,364 [Thread-3:123145611268096] [django.server:187] [basehttp:log_message] - "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[WARNING] 2022-08-04 09:14:40,373 [Thread-4:123145628057600] [django.request:241] [log:log_response] - Not Found: /favicon.ico
+[WARNING] 2022-08-04 09:14:40,373 [Thread-4:123145628057600] [django.server:187] [basehttp:log_message] - "GET /favicon.ico HTTP/1.1" 404 2111
+[INFO] 2022-08-05 02:31:38,728 [MainThread:4601083392] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/settings.py changed, reloading.
+[INFO] 2022-08-05 02:31:39,458 [MainThread:4671067648] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 02:32:20,988 [MainThread:4671067648] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 02:32:21,439 [MainThread:4547204608] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 02:32:29,539 [Thread-1:123145399234560] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 200 103
+[INFO] 2022-08-05 02:32:30,671 [Thread-1:123145399234560] [django.server:187] [basehttp:log_message] - "GET /abc HTTP/1.1" 200 103
+[INFO] 2022-08-05 02:33:32,379 [MainThread:4547204608] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 02:33:32,853 [MainThread:4770993664] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 02:36:43,650 [MainThread:4770993664] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 02:36:44,080 [MainThread:4707616256] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 02:40:36,309 [MainThread:4707616256] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 02:40:37,028 [MainThread:4607395328] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 02:40:57,391 [MainThread:4607395328] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 02:40:57,771 [MainThread:4427290112] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 06:30:48,794 [MainThread:4427290112] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/settings.py changed, reloading.
+[INFO] 2022-08-05 06:30:49,394 [MainThread:4484740608] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 06:39:45,388 [MainThread:4445758976] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:20:01,661 [MainThread:4699260416] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:20:49,673 [Thread-1:123145542520832] [django.server:187] [basehttp:log_message] - "GET /api/users HTTP/1.1" 301 0
+[INFO] 2022-08-05 08:20:49,688 [Thread-1:123145542520832] [django.server:187] [basehttp:log_message] - "GET /api/users/ HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:21:06,585 [Thread-2:123145559310336] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:21:32,823 [MainThread:4699260416] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 08:21:33,392 [MainThread:4565792256] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-05 08:21:35,701 [Thread-1:123145441894400] [django.request:241] [log:log_response] - Not Found: /api/docs
+[WARNING] 2022-08-05 08:21:35,701 [Thread-1:123145441894400] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 404 2106
+[ERROR] 2022-08-05 08:22:38,634 [Thread-3:123145475473408] [django.request:241] [log:log_response] - Internal Server Error: /api/users
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/bumblebee-platform/backend/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/lvjing/web-project/bumblebee-platform/backend/venv/lib/python3.9/site-packages/django/utils/deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "/Users/lvjing/web-project/bumblebee-platform/backend/venv/lib/python3.9/site-packages/django/middleware/common.py", line 54, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/Users/lvjing/web-project/bumblebee-platform/backend/venv/lib/python3.9/site-packages/django/middleware/common.py", line 88, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/users/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[ERROR] 2022-08-05 08:22:38,635 [Thread-3:123145475473408] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 500 65812
+[INFO] 2022-08-05 08:25:36,770 [Thread-4:123145458683904] [django.server:187] [basehttp:log_message] - "POST /api/users/ HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:25:57,341 [MainThread:4565792256] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/urls.py changed, reloading.
+[INFO] 2022-08-05 08:25:58,098 [MainThread:4510340608] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:26:04,067 [Thread-1:123145365676032] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:27:45,239 [MainThread:4510340608] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 08:27:46,116 [MainThread:4455437824] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:28:00,431 [MainThread:4455437824] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 08:28:00,962 [MainThread:4556871168] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:28:04,147 [Thread-1:123145551998976] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:28:06,668 [Thread-1:123145551998976] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:28:21,361 [Thread-1:123145551998976] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:28:45,704 [MainThread:4556871168] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 08:28:46,216 [MainThread:4580013568] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-05 08:28:51,373 [Thread-1:123145494310912] [django.security.csrf:241] [log:log_response] - Forbidden (CSRF token missing.): /api/users
+[WARNING] 2022-08-05 08:28:51,374 [Thread-1:123145494310912] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 403 2506
+[WARNING] 2022-08-05 08:29:07,776 [Thread-1:123145494310912] [django.security.csrf:241] [log:log_response] - Forbidden (CSRF token missing.): /api/users
+[WARNING] 2022-08-05 08:29:07,777 [Thread-1:123145494310912] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 403 2506
+[INFO] 2022-08-05 08:32:38,793 [MainThread:4580013568] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/settings.py changed, reloading.
+[INFO] 2022-08-05 08:32:39,386 [MainThread:4588922368] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[ERROR] 2022-08-05 08:32:43,016 [Thread-1:123145393860608] [interface:54] [user_view:post] - {"username": [{"message": "username can not be empty", "code": "required"}], "password": [{"message": "password can not be empty", "code": "required"}]}
+[INFO] 2022-08-05 08:32:43,018 [Thread-1:123145393860608] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 200 97
+[INFO] 2022-08-05 08:32:55,091 [Thread-1:123145393860608] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:37:56,112 [Thread-2:123145410650112] [django.server:187] [basehttp:log_message] - "GET /doc HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:45:39,969 [MainThread:4627801600] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:45:49,694 [Thread-1:123145391099904] [django.server:187] [basehttp:log_message] - "GET /doc HTTP/1.1" 301 0
+[INFO] 2022-08-05 08:45:49,701 [Thread-1:123145391099904] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:46:07,087 [MainThread:4627801600] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 08:46:07,591 [MainThread:4654040576] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:46:09,902 [Thread-1:123145475891200] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:46:11,865 [Thread-1:123145475891200] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:46:12,680 [Thread-1:123145475891200] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:46:21,180 [MainThread:4654040576] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 08:46:21,720 [MainThread:4419139072] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:46:28,201 [Thread-1:123145544478720] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2227
+[INFO] 2022-08-05 08:46:28,219 [Thread-1:123145544478720] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/style.css HTTP/1.1" 200 1047
+[INFO] 2022-08-05 08:46:28,237 [Thread-2:123145561268224] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 142941
+[INFO] 2022-08-05 08:46:28,238 [Thread-5:123145611636736] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/insQ.min.js HTTP/1.1" 200 2093
+[INFO] 2022-08-05 08:46:28,240 [Thread-6:123145628426240] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/url-polyfill.min.js HTTP/1.1" 200 6092
+[INFO] 2022-08-05 08:46:28,244 [Thread-1:123145544478720] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/immutable.min.js HTTP/1.1" 200 56904
+[INFO] 2022-08-05 08:46:28,245 [Thread-2:123145561268224] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-init.js HTTP/1.1" 200 14716
+[INFO] 2022-08-05 08:46:28,260 [Thread-4:123145594847232] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 329649
+[INFO] 2022-08-05 08:46:28,283 [Thread-3:123145578057728] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1036387
+[INFO] 2022-08-05 08:46:28,457 [Thread-3:123145578057728] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 479
+[INFO] 2022-08-05 08:46:28,508 [Thread-3:123145578057728] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+[INFO] 2022-08-05 08:46:51,970 [Thread-3:123145578057728] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 479
+[INFO] 2022-08-05 08:50:17,362 [MainThread:4419139072] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/urls.py changed, reloading.
+[INFO] 2022-08-05 08:50:18,072 [MainThread:4692497920] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:50:25,669 [MainThread:4692497920] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/urls.py changed, reloading.
+[INFO] 2022-08-05 08:50:26,175 [MainThread:4531660288] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:50:55,919 [MainThread:4531660288] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/urls.py changed, reloading.
+[INFO] 2022-08-05 08:50:56,597 [MainThread:4563842560] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:51:59,817 [MainThread:4563842560] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/urls.py changed, reloading.
+[INFO] 2022-08-05 08:52:00,546 [MainThread:4469949952] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:53:51,966 [Thread-1:123145540182016] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 08:53:51,994 [Thread-1:123145540182016] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/style.css HTTP/1.1" 304 0
+[INFO] 2022-08-05 08:53:52,004 [Thread-2:123145556971520] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 08:53:52,004 [Thread-1:123145540182016] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+[INFO] 2022-08-05 08:53:52,006 [Thread-3:123145573761024] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 08:53:52,008 [Thread-4:123145590550528] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/insQ.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 08:53:52,008 [Thread-5:123145607340032] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/immutable.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 08:53:52,008 [Thread-6:123145624129536] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/url-polyfill.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 08:53:52,010 [Thread-1:123145540182016] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-init.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 08:53:52,140 [Thread-1:123145540182016] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 08:53:52,149 [Thread-1:123145540182016] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+[INFO] 2022-08-05 08:54:00,333 [Thread-1:123145540182016] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 08:54:00,412 [Thread-1:123145540182016] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 08:54:04,787 [Thread-1:123145540182016] [django.server:187] [basehttp:log_message] - "GET /docs/ HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:54:20,666 [MainThread:4469949952] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/urls.py changed, reloading.
+[INFO] 2022-08-05 08:54:21,291 [MainThread:4660602368] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:54:31,774 [MainThread:4660602368] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/settings.py changed, reloading.
+[INFO] 2022-08-05 08:54:32,304 [MainThread:4666922496] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 08:54:35,656 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 08:54:35,726 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 08:54:37,083 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 08:54:37,144 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 08:54:37,904 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 08:54:37,954 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 08:54:38,151 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 08:54:38,200 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 08:54:42,112 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 08:54:49,078 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 08:55:06,603 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /accounts/login/?next=/doc/ HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:55:11,007 [Thread-1:123145424015360] [django.server:187] [basehttp:log_message] - "GET /accounts/login/?next=/doc/ HTTP/1.1" 200 103
+[INFO] 2022-08-05 08:56:56,502 [MainThread:4666922496] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/settings.py changed, reloading.
+[INFO] 2022-08-05 08:56:57,203 [MainThread:4671542784] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:02:24,705 [MainThread:4671542784] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-05 09:02:25,409 [MainThread:4572706304] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:02:27,411 [Thread-1:123145551364096] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:02:27,428 [Thread-1:123145551364096] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/style.css HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:02:27,428 [Thread-2:123145568153600] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:02:27,430 [Thread-3:123145584943104] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:02:27,432 [Thread-4:123145601732608] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:02:27,432 [Thread-5:123145618522112] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/insQ.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:02:27,433 [Thread-6:123145635311616] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/immutable.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:02:27,434 [Thread-1:123145551364096] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/url-polyfill.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:02:27,435 [Thread-2:123145568153600] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-init.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:02:27,506 [Thread-2:123145568153600] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:02:27,510 [Thread-2:123145568153600] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:02:28,385 [Thread-2:123145568153600] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:02:28,444 [Thread-2:123145568153600] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:02:44,026 [MainThread:4572706304] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-05 09:02:44,554 [MainThread:4655605248] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:03:19,517 [MainThread:4394083840] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:03:22,780 [Thread-1:123145577328640] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:03:22,954 [Thread-1:123145577328640] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:03:23,772 [Thread-1:123145577328640] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:03:23,853 [Thread-1:123145577328640] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:05:00,282 [MainThread:4394083840] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-05 09:05:00,866 [MainThread:4529239552] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:05:04,303 [Thread-1:123145587372032] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:05:04,316 [Thread-1:123145587372032] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/style.css HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:05:04,317 [Thread-2:123145604161536] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:05:04,319 [Thread-3:123145620951040] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:05:04,319 [Thread-4:123145637740544] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:05:04,319 [Thread-1:123145587372032] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/url-polyfill.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:05:04,321 [Thread-5:123145654530048] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/insQ.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:05:04,322 [Thread-6:123145671319552] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/immutable.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:05:04,322 [Thread-2:123145604161536] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-init.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:05:04,401 [Thread-2:123145604161536] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:05:04,405 [Thread-2:123145604161536] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:05:05,193 [Thread-2:123145604161536] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:05:05,260 [Thread-2:123145604161536] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:05:20,610 [Thread-2:123145604161536] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:05:23,417 [Thread-2:123145604161536] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:05:26,010 [Thread-2:123145604161536] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:11:44,441 [MainThread:4529239552] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-05 09:11:45,155 [MainThread:4677084672] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:13:03,211 [MainThread:4677084672] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-05 09:13:03,822 [MainThread:4714096128] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:14:54,352 [MainThread:4714096128] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-05 09:14:54,929 [MainThread:4459668992] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:15:33,668 [MainThread:4637165056] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:15:37,352 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:15:37,370 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/style.css HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:15:37,370 [Thread-2:123145475145728] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:15:37,373 [Thread-3:123145491935232] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:15:37,373 [Thread-5:123145525514240] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/insQ.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:15:37,374 [Thread-4:123145508724736] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:15:37,376 [Thread-6:123145542303744] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/immutable.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:15:37,376 [Thread-2:123145475145728] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-init.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:15:37,376 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/url-polyfill.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:15:37,455 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:15:37,459 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:15:38,661 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:15:38,725 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:15:38,910 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:15:38,969 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:15:39,209 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:15:39,258 [Thread-1:123145458356224] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:16:13,594 [MainThread:4637165056] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/urls.py changed, reloading.
+[INFO] 2022-08-05 09:16:14,177 [MainThread:4712969728] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-05 09:16:27,834 [Thread-1:123145514291200] [django.request:241] [log:log_response] - Not Found: /doc/
+[WARNING] 2022-08-05 09:16:27,834 [Thread-1:123145514291200] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 404 2093
+[WARNING] 2022-08-05 09:16:32,204 [Thread-1:123145514291200] [django.request:241] [log:log_response] - Not Found: /doc/
+[WARNING] 2022-08-05 09:16:32,204 [Thread-1:123145514291200] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 404 2093
+[INFO] 2022-08-05 09:17:15,258 [MainThread:4712969728] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/urls.py changed, reloading.
+[INFO] 2022-08-05 09:17:15,904 [MainThread:4579063296] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:17:20,240 [Thread-1:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:17:20,383 [Thread-1:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:17:21,351 [Thread-1:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:17:21,418 [Thread-1:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:17:21,983 [Thread-1:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:17:22,022 [Thread-1:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:17:22,332 [Thread-1:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:17:22,369 [Thread-1:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:17:22,581 [Thread-1:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:17:22,622 [Thread-1:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:28:19,196 [Thread-3:123145453981696] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:36:55,147 [MainThread:4579063296] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/backend/middleware/custom_middle_ware.py changed, reloading.
+[INFO] 2022-08-05 09:36:55,960 [MainThread:4538983936] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:37:14,061 [Thread-1:123145418809344] [django.server:187] [basehttp:log_message] - "GET /redoc/ HTTP/1.1" 200 1021
+[INFO] 2022-08-05 09:37:14,089 [Thread-3:123145452388352] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/url-polyfill.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:37:14,090 [Thread-4:123145469177856] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/insQ.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:37:14,090 [Thread-5:123145485967360] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/style.css HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:37:14,103 [Thread-1:123145418809344] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/redoc-init.js HTTP/1.1" 200 2322
+[INFO] 2022-08-05 09:37:14,119 [Thread-2:123145435598848] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/redoc/redoc.min.js HTTP/1.1" 200 925768
+[INFO] 2022-08-05 09:37:14,267 [Thread-2:123145435598848] [django.server:187] [basehttp:log_message] - "GET /redoc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:37:14,540 [Thread-2:123145435598848] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/redoc/redoc-logo.png HTTP/1.1" 200 4969
+[INFO] 2022-08-05 09:37:42,222 [Thread-2:123145435598848] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:37:42,286 [Thread-4:123145469177856] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/immutable.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:37:42,286 [Thread-5:123145485967360] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:37:42,286 [Thread-2:123145435598848] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:37:42,287 [Thread-1:123145418809344] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:37:42,287 [Thread-3:123145452388352] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-init.js HTTP/1.1" 304 0
+[INFO] 2022-08-05 09:37:42,545 [Thread-3:123145452388352] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:56:34,446 [MainThread:4599825920] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:56:41,050 [Thread-1:123145396940800] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 200 103
+[INFO] 2022-08-05 09:56:43,058 [Thread-1:123145396940800] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 200 103
+[ERROR] 2022-08-05 09:58:33,190 [Thread-1:123145396940800] [interface:64] [user_view:post] - {"username": [{"message": "username can not be empty", "code": "required"}], "password": [{"message": "password can not be empty", "code": "required"}]}
+[INFO] 2022-08-05 09:58:33,193 [Thread-1:123145396940800] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 200 97
+[ERROR] 2022-08-05 09:58:45,120 [Thread-1:123145396940800] [interface:64] [user_view:post] - {"password": [{"message": "password can not be empty", "code": "required"}]}
+[INFO] 2022-08-05 09:58:45,121 [Thread-1:123145396940800] [django.server:187] [basehttp:log_message] - "POST /api/users HTTP/1.1" 200 97
+[INFO] 2022-08-05 09:59:39,845 [MainThread:4599825920] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-05 09:59:40,629 [MainThread:4688619008] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-05 09:59:45,296 [Thread-1:123145402593280] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:59:45,326 [Thread-5:123145469751296] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/insQ.min.js HTTP/1.1" 200 2093
+[INFO] 2022-08-05 09:59:45,327 [Thread-1:123145402593280] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/style.css HTTP/1.1" 200 1047
+[INFO] 2022-08-05 09:59:45,334 [Thread-5:123145469751296] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/url-polyfill.min.js HTTP/1.1" 200 6092
+[INFO] 2022-08-05 09:59:45,336 [Thread-6:123145486540800] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/immutable.min.js HTTP/1.1" 200 56904
+[INFO] 2022-08-05 09:59:45,337 [Thread-1:123145402593280] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-init.js HTTP/1.1" 200 14716
+[INFO] 2022-08-05 09:59:45,341 [Thread-3:123145436172288] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 142941
+[INFO] 2022-08-05 09:59:45,345 [Thread-4:123145452961792] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 329649
+[INFO] 2022-08-05 09:59:45,349 [Thread-2:123145419382784] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1036387
+[INFO] 2022-08-05 09:59:45,517 [Thread-2:123145419382784] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:59:45,523 [Thread-2:123145419382784] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+[INFO] 2022-08-05 09:59:46,222 [Thread-2:123145419382784] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:59:46,297 [Thread-2:123145419382784] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-05 09:59:46,472 [Thread-2:123145419382784] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-05 09:59:46,527 [Thread-2:123145419382784] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 532
+[INFO] 2022-08-08 06:11:35,075 [MainThread:4688619008] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-08 06:11:36,204 [MainThread:4379342336] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-08 06:11:38,498 [MainThread:4379342336] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-08 06:11:38,955 [MainThread:4588807680] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-08 06:12:25,558 [Thread-1:123145342627840] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-08 06:12:25,608 [Thread-1:123145342627840] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/style.css HTTP/1.1" 304 0
+[INFO] 2022-08-08 06:12:25,620 [Thread-1:123145342627840] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+[INFO] 2022-08-08 06:12:25,620 [Thread-2:123145359417344] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+[INFO] 2022-08-08 06:12:25,622 [Thread-3:123145376206848] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+[INFO] 2022-08-08 06:12:25,624 [Thread-4:123145392996352] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/insQ.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-08 06:12:25,625 [Thread-5:123145409785856] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/immutable.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-08 06:12:25,626 [Thread-1:123145342627840] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-init.js HTTP/1.1" 304 0
+[INFO] 2022-08-08 06:12:25,626 [Thread-6:123145426575360] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/url-polyfill.min.js HTTP/1.1" 304 0
+[INFO] 2022-08-08 06:12:25,908 [Thread-6:123145426575360] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 103
+[INFO] 2022-08-08 06:15:35,366 [MainThread:4588807680] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-08 06:15:36,276 [MainThread:4576245248] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-08 06:17:59,132 [MainThread:4670875136] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-08 06:19:00,686 [MainThread:4548466176] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-08 06:19:05,037 [Thread-1:123145572585472] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-08 06:19:05,177 [Thread-2:123145589374976] [django.server:187] [basehttp:log_message] - "GET /static/drf_yasg2/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+[INFO] 2022-08-08 06:19:05,179 [Thread-1:123145572585472] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 103
+[INFO] 2022-08-08 06:24:07,104 [MainThread:4548466176] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-08 06:24:08,302 [MainThread:4468672000] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-08 06:24:39,236 [MainThread:4468672000] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/bumblebee-platform/backend/users/views/user_view.py changed, reloading.
+[INFO] 2022-08-08 06:24:39,724 [MainThread:4608701952] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-08 06:24:44,369 [Thread-1:123145490362368] [django.server:187] [basehttp:log_message] - "GET /doc/ HTTP/1.1" 200 2251
+[INFO] 2022-08-08 06:24:44,517 [Thread-1:123145490362368] [django.server:187] [basehttp:log_message] - "GET /doc/?format=openapi HTTP/1.1" 200 103
+[INFO] 2022-08-08 07:22:38,312 [MainThread:4701550080] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader

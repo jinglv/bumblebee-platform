@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="test.Dog.*" />
+          <option value="projects.models.Project.objects" />
+          <option value="projects.models.Project.DoesNotExist" />
+          <option value="ninja.files.UploadedFile.name" />
+          <option value="object._meta" />
+          <option value="cases.models.Module.objects" />
+          <option value="modules.models.Module.objects" />
+          <option value="ninja.files.UploadedFile.size" />
+          <option value="ninja.files.UploadedFile.chunks" />
+          <option value="dict.get" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
